@@ -6,7 +6,7 @@ public class PemilihanPercobaan313 {
         Scanner input13 = new Scanner(System.in);
 
         double angka1, angka2, hasil;
-        char operator
+        char operator;
 
         System.out.println("Masukkan angka pertama : ");
         angka1 = input13.nextDouble();
