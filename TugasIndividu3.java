@@ -24,7 +24,7 @@ public class TugasIndividu3 {
             x2 = (-b - Math.sqrt(d))/(2*a);
             System.out.println("Nilai x1 = " + x1 + " dan nilai x2 = " + x2);
         } else if (a <= 0){
-            System.out.println("Nilai x imajiner");}
+            System.out.println("Nilai x imajiner ");}
         }
     }
 
