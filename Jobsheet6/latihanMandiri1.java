@@ -1,3 +1,5 @@
+package Jobsheet6;
+
 public class latihanMandiri1 {
     public static void main(String[] args) {
         

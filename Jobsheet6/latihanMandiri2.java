@@ -1,3 +1,5 @@
+package Jobsheet6;
+
 import java.util.Scanner;;
 
 public class latihanMandiri2 {
