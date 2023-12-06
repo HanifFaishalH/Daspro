@@ -1,0 +1,19 @@
+package Jobsheet13;
+
+public class Percobaan6no213 {
+    public static void TampilHinggaKei(){
+        for (int i = 1; i<= 1; i++) {
+            System.out.println(i);
+        }
+    }
+    public static int Jumlah (int bil1, int bil2){
+        return (bil1+bil2);
+    }
+    public static void TampilJumlah(int bil1, int bil2){
+        TampilHinggaKei(Jumlah(bil1, bil2));
+    }
+    public static void main(String[] args) {
+        int temp = Jumlah(1, 1);
+        TampilJumlah(temp, 5);
+    }
+}
